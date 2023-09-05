@@ -1,6 +1,6 @@
 # javascriptPractice
-##basic math problem
--x=length,y=width,z=height
+## basic math problem
+- x=length,y=width,z=height
 1. Find the area
 2. Find the perimeter
 3. Find the volume
